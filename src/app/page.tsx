@@ -8,7 +8,7 @@ export default function Home() {
   <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p className="text-lg md:text-center font-medium">
-        “Hello!I am Mubashir.I am a AI student basically a interclass student.I read many things in AI course like Node.js,Vscode,typesript,next.js etc.”
+        “Hello!I am Mubashir.I am a AI student  and basically a interclass student.I read many things in AI course like Node.js,Vscode,typesript,next.js etc.”
       </p>
     </blockquote>
     <figcaption className="font-medium">
